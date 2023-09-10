@@ -1,0 +1,147 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (min-width:500px) {
+
+    /* font-sizes*/
+
+    .extraLargeText {
+        font-size: 32px;
+    }
+
+    .largeText {
+        font-size: 24px;
+    }
+
+    .mediumText {
+        font-size: 18px;
+    }
+
+    .smallText {
+        font-size: 16px;
+    }
+
+    .extraSmallText {
+        font-size: 14px;
+    }
+
+    /* font-weights */
+
+    .extraBoldWeight {
+        font-weight: 800;
+    }
+
+    .semiBoldWeight {
+        font-weight: 600;
+    }
+
+    .lightWeight {
+        font-weight: 300;
+    }
+
+    /* text-colors */
+
+    .blackText {
+        color: #111517;
+    }
+
+    .whiteText {
+        color: white;
+    }
+
+    .grayText {
+        color: #848484;
+    }
+
+    /* bg-colors */
+
+    .extraLightGrayBg {
+        background-color: #FAFAFA;
+    }
+
+    .whiteBg {
+        background-color: white;
+    }
+
+    .darkBlackBg {
+        background-color: #202C36;
+    }
+
+    .lightBlackBg {
+        background-color: #2B3844;
+    }
+}
+
+@media (max-width:500px) {
+    /* font-sizes*/
+
+    .extraLargeText {
+        font-size: 22px;
+    }
+
+    .largeText {
+        font-size: 14px;
+    }
+
+    .mediumText {
+        font-size: 18px;
+    }
+
+    .smallText {
+        font-size: 12px;
+    }
+
+    .extraSmallText {
+        font-size: 12px;
+    }
+
+    /* font-weights */
+
+    .extraBoldWeight {
+        font-weight: 800;
+    }
+
+    .semiBoldWeight {
+        font-weight: 600;
+    }
+
+    .lightWeight {
+        font-weight: 300;
+    }
+
+    /* text-colors */
+
+    .blackText {
+        color: #111517;
+    }
+
+    .whiteText {
+        color: white;
+    }
+
+    .grayText {
+        color: #848484;
+    }
+
+    /* bg-colors */
+
+    .extraLightGrayBg {
+        background-color: #FAFAFA;
+    }
+
+    .whiteBg {
+        background-color: white;
+    }
+
+    .darkBlackBg {
+        background-color: #202C36;
+    }
+
+    .lightBlackBg {
+        background-color: #2B3844;
+    }
+}

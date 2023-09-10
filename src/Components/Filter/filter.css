@@ -1,0 +1,343 @@
+@media (min-width:1000px) {
+    .filter {
+        margin-top: 50px;
+        z-index: 10;
+    }
+    
+    .filterWrapper {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 80px;
+    }
+    
+    .filterLeft {
+        width: 480px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        padding-left: 32px;
+        gap: 24px;
+        border-radius: 10px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+    }
+    
+    
+    .filterLeftInput {
+        outline: none;
+        border: none;
+        width: 350px;
+        height: 56px;
+        background-color: transparent;
+    }
+    
+    .filterRightChoiceArea {
+        width: 200px;
+        position: relative;
+        user-select: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaMain {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 18px;
+        padding-left: 24px;
+        cursor: pointer;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        border-radius: 10px;
+        z-index: 20;
+    
+    
+    }
+    
+    .filterRightChoiceAreaMainText {
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdown {
+        width: 200px;
+        padding: 16px 0 8px 24px;
+        position: absolute;
+        top: 65px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItems {
+        list-style: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItem {
+        margin-bottom: 8px;
+        cursor: pointer;
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+}
+
+@media (min-width:500px) and (max-width:1000px) {
+    .filter {
+        margin-top: 50px;
+        z-index: 10;
+    }
+    
+    .filterWrapper {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 80px;
+    }
+    
+    .filterLeft {
+        width: 380px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        padding-left: 32px;
+        gap: 24px;
+        border-radius: 10px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+    }
+    
+    
+    .filterLeftInput {
+        outline: none;
+        border: none;
+        width: 300px;
+        height: 56px;
+        background-color: transparent;
+    }
+    
+    .filterRightChoiceArea {
+        width: 200px;
+        position: relative;
+        user-select: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaMain {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 18px;
+        padding-left: 24px;
+        cursor: pointer;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        border-radius: 10px;
+        z-index: 20;
+    
+    
+    }
+    
+    .filterRightChoiceAreaMainText {
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdown {
+        width: 200px;
+        padding: 16px 0 8px 24px;
+        position: absolute;
+        top: 65px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItems {
+        list-style: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItem {
+        margin-bottom: 8px;
+        cursor: pointer;
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+}
+
+@media (max-width:500px) {
+    .filter {
+        margin-top: 50px;
+        z-index: 10;
+    }
+    
+    .filterWrapper {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 80px;
+    }
+    
+    .filterLeft {
+        width: 480px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        padding-left: 32px;
+        gap: 24px;
+        border-radius: 10px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+    }
+    
+    
+    .filterLeftInput {
+        outline: none;
+        border: none;
+        width: 350px;
+        height: 56px;
+        background-color: transparent;
+    }
+    
+    .filterRightChoiceArea {
+        width: 200px;
+        position: relative;
+        user-select: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaMain {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 18px;
+        padding-left: 24px;
+        cursor: pointer;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        border-radius: 10px;
+        z-index: 20;
+    
+    
+    }
+    
+    .filterRightChoiceAreaMainText {
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdown {
+        width: 200px;
+        padding: 16px 0 8px 24px;
+        position: absolute;
+        top: 65px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItems {
+        list-style: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItem {
+        margin-bottom: 8px;
+        cursor: pointer;
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+}
+
+@media (max-width:500px) {
+    .filter {
+        margin-top: 25px;
+        z-index: 10;
+    }
+    
+    .filterWrapper {
+        display: flex;
+        flex-direction: column;
+        padding: 0 16px;
+        gap: 40px;
+    }
+    
+    .filterLeft {
+        width: 340px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        padding-left: 32px;
+        gap: 24px;
+        border-radius: 10px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+    }
+    
+    
+    .filterLeftInput {
+        outline: none;
+        border: none;
+        width: 240px;
+        height: 50px;
+        background-color: transparent;
+    }
+    
+    .filterRightChoiceArea {
+        width: 200px;
+        position: relative;
+        user-select: none;
+        z-index: 20;
+        margin-bottom: 20px;
+    
+    }
+    
+    .filterRightChoiceAreaMain {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 18px;
+        padding-left: 24px;
+        cursor: pointer;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        border-radius: 10px;
+        z-index: 20;
+    
+    
+    }
+    
+    .filterRightChoiceAreaMainText {
+        text-transform: capitalize;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdown {
+        width: 200px;
+        padding: 16px 0 8px 24px;
+        position: absolute;
+        top: 65px;
+        box-shadow: 0 2px 9px 0 rgb(0, 0, 0,0.05);
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItems {
+        list-style: none;
+        z-index: 20;
+    
+    }
+    
+    .filterRightChoiceAreaDropdownItem {
+        margin-bottom: 12px;
+        cursor: pointer;
+        text-transform: capitalize;
+        z-index: 20;
+    }
+}
+
+
+

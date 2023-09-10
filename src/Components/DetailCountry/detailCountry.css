@@ -1,0 +1,322 @@
+@media (min-width:1700px) {
+
+    .detailCountry {
+        margin-top: 80px;
+    }
+
+    .detailCountryBack {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        margin-left: 80px;
+        margin-bottom: 90px;
+        cursor: pointer;
+        width: 140px;
+        height: 40px;
+        justify-content: center;
+        border-radius: 15px;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+
+    }
+
+    .detailCountryLeft {
+        width: 560px;
+        height: 400px;
+    }
+
+    .detailCountryLeftImg {
+        width: 560px;
+        height: 400px;
+        border-radius: 15px;
+    }
+
+    .detailCountryRight {
+        width: 600px;
+        height: 330px;
+    }
+
+    .detailCountryRightTitle {
+        margin-bottom: 23px;
+    }
+
+
+    .detailCountryRightDesc {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .detailCountryRightDescLeftItem,
+    .detailCountryRightDescRightItem {
+        display: flex;
+        gap: 5px;
+        line-height: 32px;
+    }
+
+    .detailCountryRightBorderCountries {
+        margin-top: 65px;
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .detailCountryRightBorderCountriesItem {
+        width: 96px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .detailCountryWrapper {
+        padding: 0 80px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start !important;
+        gap: 200px !important;
+    }
+
+}
+
+@media (min-width:1000px) and (max-width:1700px) {
+    .detailCountry {
+        margin-top: 80px;
+    }
+
+    .detailCountryBack {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        margin-left: 80px;
+        margin-bottom: 90px;
+        cursor: pointer;
+        width: 140px;
+        height: 40px;
+        justify-content: center;
+        border-radius: 15px;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+
+    }
+
+    .detailCountryWrapper {
+        padding: 0 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .detailCountryLeft {
+        width: 560px;
+        height: 400px;
+    }
+
+    .detailCountryLeftImg {
+        width: 560px;
+        height: 400px;
+        border-radius: 15px;
+    }
+
+    .detailCountryRight {
+        width: 600px;
+        height: 330px;
+    }
+
+    .detailCountryRightTitle {
+        margin-bottom: 23px;
+    }
+
+
+    .detailCountryRightDesc {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .detailCountryRightDescLeftItem,
+    .detailCountryRightDescRightItem {
+        display: flex;
+        gap: 5px;
+        line-height: 32px;
+    }
+
+    .detailCountryRightBorderCountries {
+        margin-top: 65px;
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .detailCountryRightBorderCountriesItem {
+        width: 96px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+        cursor: pointer;
+        border-radius: 5px;
+    }
+}
+
+
+
+@media (min-width:500px) and (max-width:1000px) {
+    .detailCountry {
+        margin-top: 80px;
+    }
+
+    .detailCountryBack {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        margin-left: 80px;
+        margin-bottom: 50px;
+        cursor: pointer;
+        width: 140px;
+        height: 40px;
+        justify-content: center;
+        border-radius: 15px;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+
+    }
+
+    .detailCountryWrapper {
+        padding: 0 80px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 30px;
+    }
+
+    .detailCountryLeft {
+        width: 280px;
+        height: 200px;
+    }
+
+    .detailCountryLeftImg {
+        width: 280px;
+        height: 200px;
+        border-radius: 15px;
+    }
+
+    .detailCountryRight {
+        width: 600px;
+        height: 330px;
+    }
+
+    .detailCountryRightTitle {
+        margin-bottom: 23px;
+    }
+
+
+    .detailCountryRightDesc {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .detailCountryRightDescLeftItem,
+    .detailCountryRightDescRightItem {
+        display: flex;
+        gap: 5px;
+        line-height: 32px;
+    }
+
+    .detailCountryRightBorderCountries {
+        margin-top: 65px;
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .detailCountryRightBorderCountriesItem {
+        width: 96px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+        cursor: pointer;
+        border-radius: 5px;
+    }
+}
+
+@media (max-width:500px) {
+    .detailCountry {
+        margin-top: 40px;
+    }
+
+    .detailCountryBack {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        margin-left: 30px;
+        margin-bottom: 50px;
+        cursor: pointer;
+        width: 100px;
+        height: 32px;
+        justify-content: center;
+        border-radius: 10px;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+
+    }
+
+    .detailCountryWrapper {
+        padding: 0 30px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .detailCountryLeft {
+        width: 320px;
+        height: 230px;
+    }
+
+    .detailCountryLeftImg {
+        width: 320px;
+        height: 230px;
+        border-radius: 15px;
+    }
+
+    .detailCountryRight {
+        width: 320px;
+    }
+
+    .detailCountryRightTitle {
+        margin-bottom: 16px;
+        margin-top: 40px;
+    }
+
+
+    .detailCountryRightDesc {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    .detailCountryRightDescLeftItem,
+    .detailCountryRightDescRightItem {
+        display: flex;
+        gap: 5px;
+        line-height: 32px;
+    }
+
+    .detailCountryRightBorderCountries {
+        margin-top: 65px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .detailCountryRightBorderCountriesItem {
+        width: 96px;
+        height: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 4px 1px rgb(0, 0, 0, 0.1);
+        cursor: pointer;
+        border-radius: 5px;
+    }
+}
