@@ -4,7 +4,7 @@ This is a web application that allows users to explore information about various
 
 ## Live Demo
 
-You can explore the app live by visiting [Live Demo](https://countries-8z0hnsycg-gokselsayilan.vercel.app/).
+You can explore the app live by visiting [Live Demo](https://countries-app-focuscode.vercel.app/).
 
 ![App Screenshot](public/screenshot.png)
 
